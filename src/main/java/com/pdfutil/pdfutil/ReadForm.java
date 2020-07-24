@@ -31,6 +31,10 @@ import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
 import net.sourceforge.tess4j.util.LoadLibs;
 
+/**
+ * @author https://github.com/rohitsharma23
+ */
+ 
 public class ReadForm {
 
 	public static void main(String[] args) throws IOException {
